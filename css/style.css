@@ -1,0 +1,33 @@
+.container-principal {
+  background-color: #ffbe0e;
+}
+
+.navbar-logo {
+  width: 150px;
+  height: 40px;
+}
+
+.navbar-itens {
+  font-weight: 600;
+}
+
+.marcador-de-container {
+  border: 1px solid red;
+}
+
+.marcador-de-item {
+  border: 1px solid blue;
+}
+
+.container-cadastre {
+  color: white;
+}
+
+.caixa {
+  padding: 60px 0px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.rodape {
+  padding: 40px 0px;
+}
